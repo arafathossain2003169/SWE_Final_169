@@ -10,10 +10,6 @@
 
 using namespace std;
 
-
-
-
-
 class StudentManager {
 private:
     static StudentManager* instance;
